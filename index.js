@@ -12,7 +12,7 @@ function doisDigitosNaTela(digito){
 }
 
 function inicio(){
-    contador()  
+    pausa()  
     temporizador= setInterval(contador,1000) 
 }
 
